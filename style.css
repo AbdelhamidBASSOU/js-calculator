@@ -12,8 +12,7 @@ body {
    font-size: 20px;
    font-weight: bold;
    background-color: rgba(245, 242, 237, 0.589);
-   /* background:none */
-   /* border-radius: 10px; */
+  
    border: none;
 }
 
@@ -85,7 +84,6 @@ h1{
 }
 .container{
        background: rgba(146, 142, 142, 0.589);
-       /* background-size: 100px 80px; */
        background-size: cover;
        position:absolute;
        top:50%;

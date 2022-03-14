@@ -13,4 +13,4 @@
 
 
 
-The style sheet contains the necessary stylings and the calcscript file contains the necessary functions to implement the calculator.
+The style sheet contains the necessary stylings and the script file contains the necessary functions to implement the calculator.
